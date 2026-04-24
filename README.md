@@ -75,7 +75,7 @@ After flashing, open the device's web UI at its IP address (port 80) and set the
 
 ## 3D Model
 
-Printable case files are in the [`3d-model/`](3d-model/) folder (STL and 3MF). No supports needed, printed in PLA.
+Printable case files are in the [`3d-model/`](3d-model/) folder (STL and 3MF). No supports needed, printed in PLA. Case dimensions: 54x29x16 mm.
 
 Also available on [MakerWorld](https://makerworld.com/en/models/2712283-koreader-button).
 
